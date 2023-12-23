@@ -7,7 +7,7 @@
 //
 // Created by Jerry Luo on 2023/12/23.
 //
-int main_() {
+int main() {
     const int kRed = 0xFF0000;
     const int kGreen = 0x00FF00;
     const int kBlue = 0x0000FF;
