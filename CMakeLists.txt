@@ -3,4 +3,5 @@ project(HelloWorldC C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(HelloWorldC main.c)
+add_executable(HelloWorldC main.c
+        constant.c)

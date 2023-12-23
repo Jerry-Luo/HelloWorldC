@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main() {
+int main_() {
     for (int i = 0; i < 5; ++i) {
         printf("Hello, World! %d \n", i);
     }
