@@ -3,4 +3,5 @@ project(HelloWorldC C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(HelloWorldC 06.operators.c)
+add_executable(HelloWorldC
+        09.guess_number.c)
