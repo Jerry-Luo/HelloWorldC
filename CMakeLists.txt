@@ -4,4 +4,5 @@ project(HelloWorldC C)
 set(CMAKE_C_STANDARD 11)
 
 add_executable(HelloWorldC
-        09.guess_number.c)
+        struct/struct_test.c
+        struct/struct_pointer_test.c)
